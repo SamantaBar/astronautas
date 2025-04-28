@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: samantabar.github.io/astronautas/
+Site published at: http://samantabar.github.io/astronautas/
 
 Design: ![alt text](./original-design.png)
 
